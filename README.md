@@ -6,7 +6,11 @@
 - clone this repo to your local machine
 - go to your terminal
 - go to this project directory
-- run command - "npm run dev"
+- run command :
+
+```bash
+npm run dev
+```
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -23,3 +27,9 @@
 2. https://house-rent-clone-oliver.vercel.app
 
 3. https://ecomoliver1.onrender.com
+
+#
+
+1. https://github.com/oliver-007/16_e-commerce-app_vite-react-tailwind
+
+2. https://github.com/oliver-007/Project-Management-Application
