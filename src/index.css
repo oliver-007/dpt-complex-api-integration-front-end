@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  @apply bg-blue-800 uppercase px-8 rounded-sm text-[10px] tracking-wider text-white w-[50px] flex justify-center;
+}
