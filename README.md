@@ -5,7 +5,7 @@
 - fork this repo
 - clone this repo to your local machine
 - go to your terminal
-- got to this project directory
+- go to this project directory
 - run command - "npm run dev"
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
